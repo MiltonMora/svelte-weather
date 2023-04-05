@@ -1,3 +1,5 @@
+import { error } from "@sveltejs/kit";
+
 export async function getWeather(query = 'Barcelona') {
     const data = await fetch(`/api/weather_api?q=${query}`).then(res => res.json());
 

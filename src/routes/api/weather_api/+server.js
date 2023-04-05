@@ -10,7 +10,9 @@ const options = {
 
 
 export async function GET(event) {
-    const response = await fetch('https://weatherapi-com.p.rapidapi.com/current.json?q=Barcelona', options);
+	const { searchParams } = event.url;
+	const query = searchParams.get('q');
+    const response = await fetch(`https://weatherapi-com.p.rapidapi.com/current.json?q=${query}` , options);
 	const data = await response.json();
 
     return json(data);
