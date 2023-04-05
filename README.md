@@ -1,18 +1,18 @@
-# create-svelte
+# Otra aplicación más del tiempo  :sunny: :cloud:
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Esta es otra aplicación más que utiliza la API de [weatherapi-com](weatherapi-com), Lo he realizado para poder probar conceptos básicos de `Svelte`, cuya información se encuentra más abajo y en Inglés para ser más tramador :wink:
 
-## Creating a project
+Como siempre lo que necesitas como minimo es **node** y **npm** y a demás de eso estar dado de alta en la api, porque no te voy a poner mi api-key aquí, ese error ya lo cometí y GitHub ya me regaño :angry:
 
-If you're seeing this, you've probably already done this step. Congrats!
+## API
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+También he creado una API, que trae la información de [weatherapi-com](weatherapi-com) y la muestra como JSON, sin que exista un front, esta puedes acceder por medio de la ruta localhost:puerto/**weather_api?q=Barcelona**, el parámetro **q** es el nombre de la ciudad de la cual quieres ver los datos.:japan:
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## Lo más Importante
+Por último, este MD es más una broma que cualquier otra cosa, por lo que si te has sentido ofendido sería buen o que evaluaras con que facilidad un desconocido te puede llegar a ofender y que te plantearas tomar terapia que seguramente te puede ayudar mucho. Sin más que agregar. Saludos a la abuela :older_woman:
+
+# svelte
+
 
 ## Developing
 
