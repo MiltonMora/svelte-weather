@@ -9,7 +9,7 @@ Como siempre lo que necesitas como minimo es **node** y **npm** y a demás de es
 También he creado una API, que trae la información de [weatherapi-com](weatherapi-com) y la muestra como JSON, sin que exista un front, esta puedes acceder por medio de la ruta localhost:puerto/**weather_api?q=Barcelona**, el parámetro **q** es el nombre de la ciudad de la cual quieres ver los datos.:japan:
 
 ## Lo más Importante
-Por último, este MD es más una broma que cualquier otra cosa, por lo que si te has sentido ofendido sería buen o que evaluaras con que facilidad un desconocido te puede llegar a ofender y que te plantearas tomar terapia que seguramente te puede ayudar mucho. Sin más que agregar. Saludos a la abuela :older_woman:
+Por último, este MD es más una broma que cualquier otra cosa, por lo que, si te has sentido ofendido sería buen o que evaluaras con que facilidad un desconocido te puede llegar a ofender y que te plantearas tomar terapia que seguramente te puede ayudar mucho. Sin más que agregar. Saludos a la abuela :older_woman:
 
 # svelte
 
